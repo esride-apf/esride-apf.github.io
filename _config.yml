@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Marko Apfel
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Team Leader of Software Development Team by GEOCOM Informatik GmbH
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars1.githubusercontent.com/u/954297?v=3&s=400
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: m.apfel.esri.de(at)marko-apfel.de
+  facebook: https://www.facebook.com/marko.apfel
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/esride-apf
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/marko-apfel-97885118
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: markoapfel
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
